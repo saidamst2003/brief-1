@@ -59,4 +59,8 @@ public class Main {
         System.out.println("Multiplication  : " + (a*b));
 
     }
+    public static void Division(int a,int b){
+        System.out.println("Division  : " + (a/b));
 
+    }
+   
