@@ -46,3 +46,17 @@ public class Main {
 
     }
     }
+
+    public static void Addition(double a,double b){
+        System.out.println("addition : " + (a+b));
+
+    }
+    public static void Soustraction(double a,double b){
+        System.out.println("soustraction : " + (a-b));
+
+    }
+    public static void Multiplication(double a,double b){
+        System.out.println("Multiplication  : " + (a*b));
+
+    }
+
