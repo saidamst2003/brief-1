@@ -34,12 +34,12 @@ public class Main {
             case 5:
                Puissance(a,b);
                 break;
-            case 6:
-                RacineCarrée(a);
-                break;
-            case 7:
-                Factorielle(a);
-                break;
+//            case 6:
+//                RacineCarrée(a);
+//                break;
+//            case 7:
+//                Factorielle(a);
+//                break;
             case 8:
                 return ;
         }
@@ -63,4 +63,8 @@ public class Main {
         System.out.println("Division  : " + (a/b));
 
     }
-   
+    public static void Puissance(double a, double b){
+        System.out.println("Puissance : " + Math.pow(a,b));
+
+    }
+
