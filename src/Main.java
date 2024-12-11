@@ -25,4 +25,24 @@ public class Main {
             case 2:
                 Soustraction(a,b);
                 break;
+            case 3:
+                Multiplication(a,b);
+                break;
+            case 4:
+                Division(a,b);
+                break;
+            case 5:
+               Puissance(a,b);
+                break;
+            case 6:
+                RacineCarrée(a);
+                break;
+            case 7:
+                Factorielle(a);
+                break;
+            case 8:
+                return ;
+        }
 
+    }
+    }
